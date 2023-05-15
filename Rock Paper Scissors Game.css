@@ -1,0 +1,54 @@
+.heading {
+  font-family: Arial;
+  font-size: 25px;
+  margin-left: 40px;
+}
+.js-rock {
+  background-color: orangered;
+  color: white;
+  padding: 35px 28px;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+  margin-right: 10px;
+  margin-top: 20px;
+  margin-left: 20px;
+
+}
+.js-paper {
+  background-color: orangered;
+  color: white;
+  padding: 35px 25px;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+  margin-right: 10px;
+}
+.js-scissors {
+  background-color: orangered;
+  color: white;
+  padding: 35px 20px;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+}
+
+.js-auto {
+  font-family: Arial;
+  font-size: 13px;
+  border: none;
+  margin-left: 50px;
+  margin-top: 20px;
+  cursor: pointer;
+  margin-bottom: 8px;
+}
+.js-reset{
+  background-color: yellowgreen;
+  padding: 10px 8px;
+  border: none;
+  margin-left: 130px;
+  margin-top: 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-bottom: 8px;
+}
